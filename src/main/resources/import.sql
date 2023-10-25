@@ -1,0 +1,3 @@
+INSERT INTO tb_account (name, account_number, agency, balance_initial, key_pix) VALUES ('Matheus Sapeca', 14595, 1027, 5000.00, 12369555487);
+INSERT INTO tb_account (name, account_number, agency, balance_initial, key_pix) VALUES ('José Neto das Bixinha', 19595, 9577, 8000.00, 'jose@unifacisa.com.br');
+INSERT INTO tb_account (name, account_number, agency, balance_initial, key_pix) VALUES ('Eduardo', 16595, 6527, 7000.00, 55839965287);
